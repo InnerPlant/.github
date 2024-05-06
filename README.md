@@ -11,6 +11,8 @@
 7. [Project Requirements Doc](#Project-Requirements)
 8. [Tools](#Tools)
 
+---
+
 #### Naming Convention
 
 Name your repo something descriptive. Use only lowercase letters and dashes. No underscores unless you ***really*** need them, please!
