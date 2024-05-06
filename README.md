@@ -114,7 +114,7 @@ Additional labels for pre-release and build metadata are available as extensions
 
 #### Tools
 
-There are a lot of great tools out there, and it would be great for us to use a unified toolchain wherever possible for better fluency. Here's a running list of the ones we've found helpful. Most are in Python, but feel free to add from in any language. 
+There are a lot of useful tools out there, and it would be great for us to use a unified toolchain wherever possible for better fluency. Here's a running list of the ones we've found helpful. Most are in Python, but feel free to add from in any language. 
 
 - **[Poetry](https://python-poetry.org/)** Python Packaging and dependency management.
 - **[Ruff](https://docs.astral.sh/ruff/)** An extremely fast Python linter and code formatter.
