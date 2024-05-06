@@ -19,7 +19,7 @@ Be sure to fill out the *About* section on the right-hand side so people can see
 
 #### README
 
-Creating a well-crafted README is crucial for your GitHub repository. Find a template README [here](https://github.com/InnerPlant/.github/blob/main/readme-template.md).
+A README is a very important piece of your repository - it's the first thing someone will read about your code, and should help be a primer for understanding what it does and how it works. Find a template README [here](https://github.com/InnerPlant/.github/blob/main/readme-template.md).
 
 Here are some best practices to consider when creating a README:
 
@@ -27,7 +27,7 @@ Here are some best practices to consider when creating a README:
 
 2. **Installation Instructions**: Provide clear, step-by-step instructions on how to install and set up your project. Include any dependencies that need to be installed and specify the supported platforms.
 
-3. **Usage**: Explain how to use your project. Provide code examples or usage scenarios to help users understand how they can interact with your project. This section should guide users on how to get the most out of your project.
+3. **Usage**: Explain how to use your project. Provide code examples or usage scenarios to help users understand how they can interact with your project. This section should guide users on how to get the most out of your project. If this is deployed on the cloud somewhere, provide a link (and consider putting it at the top of the README and in the about section as well) 
 
 4. **Configuration**: If your project requires configuration, explain how users can configure it to suit their needs. Include information about configuration files, environment variables, or any other settings users might need to adjust.
 
