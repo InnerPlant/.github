@@ -19,8 +19,9 @@ Be sure to fill out the *About* section on the right-hand side so people can see
 
 #### README
 
-Creating a well-crafted README is crucial for your GitHub repository, as it serves as the entry point for developers interested in your project. Here are some best practices to consider when creating a README:
-Find a template README [here](https://github.com/InnerPlant/.github/blob/main/readme-template.md)
+Creating a well-crafted README is crucial for your GitHub repository, as it serves as the entry point for developers interested in your project. Find a template README [here](https://github.com/InnerPlant/.github/blob/main/readme-template.md).
+
+Here are some best practices to consider when creating a README:
 
 1. **Project Overview**: Begin with a brief overview of your project. Explain what the project does, its purpose, and why it's valuable. This section should give readers a high-level understanding of what your project is about.
 
