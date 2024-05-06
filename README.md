@@ -37,7 +37,7 @@ Here are some best practices to consider when creating a README:
 
 7. **Contact Information**: Provide contact information or links to relevant communication channels (such as Slack) where users can reach out for support or ask questions.
 
-Remember to keep your README concise, well-organized, and easy to read. 
+Remember to keep your README concise, well-organized, and easy to read. If you have a lot of documentation that won't fit in a README, consider creating docs in the [https://sites.google.com/innerplant.com/innerwiki/software](InnerPlant Software Wiki)
 
 ---
 
