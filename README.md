@@ -8,7 +8,7 @@
 3. [Issues](#ISSUES)
 4. [Pull Requests](#configuration)
 
-### Naming Convention
+#### Naming Convention
 
 Name your repo something descriptive. Use only lowercase letters and dashes. No underscores unless you ***really*** need them, please!
 
@@ -16,7 +16,7 @@ Be sure to fill out the *About* section on the right-hand side so people can see
 
 ---
 
-### README
+#### README
 
 Creating a well-crafted README is crucial for your GitHub repository, as it serves as the entry point for developers interested in your project. Here are some best practices to consider when creating a README:
 Find a template README [here](https://github.com/InnerPlant/.github/blob/main/readme-template.md)
@@ -38,7 +38,7 @@ Find a template README [here](https://github.com/InnerPlant/.github/blob/main/re
 Remember to keep your README concise, well-organized, and easy to read. 
 ---
 
-### Issues
+#### Issues
 
 Issues can essentially just be a to-do list for the project. It's best to keep issues small and specific. They should be bite-sized tasks that can be completed in a day or two.
 
@@ -46,7 +46,7 @@ Recommend using [GitHub Projects](https://docs.github.com/en/issues/planning-and
 
 ---
 
-### Pull Requests
+#### Pull Requests
 
 Code review is always a good idea. Consider using Pull Requests and tagging a couple of other contributors whenever you want to merge a series of commits into the active branch. Here are a few best practices:
 
