@@ -101,7 +101,7 @@ Code review is always a good idea. Consider using Pull Requests and tagging a co
 
 #### Versioning
 
-[Semver](https://semver.org/) is a widely accepted standard, so we'll use it. Versioning should be notated somewhere in the *pyproject.toml* (for Poetry projects) or in the version section in the GitHub Repo.
+[Semver](https://semver.org/) is a widely accepted standard, so we'll use it. Versioning should be notated in the *pyproject.toml* (for Poetry projects) or in the version section in the GitHub Repo.
 
 Given a version number **MAJOR.MINOR.PATCH**, increment the:
 1. **MAJOR** version when you make incompatible API changes
