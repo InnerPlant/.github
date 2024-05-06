@@ -1,13 +1,15 @@
-# .github
-## Best Practices for InnerPlant GitHub use
+# Best Practices for InnerPlant GitHub use
 
-## Table of Contents
+### Table of Contents
 
 1. [Naming](#Naming-Convention)
 2. [Readmes](#README)
-3. [Issues](#ISSUES)
-4. [Pull Requests](#Pull-Requests)
-5. [Project Requirements](#Project-Requirements)
+3. [Issues](#Issues)
+4. [Tests](#Tests)
+5. [Pull Requests](#Pull-Requests)
+6. [Versioning](#Versioning)
+7. [Project Requirements Doc](#Project-Requirements)
+8. [Tools](#Tools)
 
 #### Naming Convention
 
@@ -21,7 +23,7 @@ Be sure to fill out the *About* section on the right-hand side so people can see
 
 A README is a very important piece of your repository - it's the first thing someone will read about your code, and should help be a primer for understanding what it does and how it works. Find a template README [here](https://github.com/InnerPlant/.github/blob/main/readme-template.md).
 
-Here are some best practices to consider when creating a README:
+Here are some best practices and sections to consider when creating a README. This is flexible, so modify as needed:
 
 1. **Project Overview**: Begin with a brief overview of your project. Explain what the project does, its purpose, and why it's valuable. This section should give readers a high-level understanding of what your project is about.
 
@@ -49,9 +51,26 @@ We recommend using [GitHub Projects](https://docs.github.com/en/issues/planning-
 
 ---
 
+#### Tests
+Writing tests is a GREAT way to ensure that contributors don't break code. We should do more of it. CircleCI has a [really nice blog post](https://circleci.com/blog/test-driven-development-tdd/) on Test-Driven Development. We probably don't need to be that hardcore. Here are a few loose best practices:
+
+1. **Define Clear Testing Objectives**: Clearly define the objectives of your software testing efforts. Understand what aspects of the software you need to test, what quality attributes are most important, and what risks you want to mitigate through testing.
+
+2. **Start Testing Early**: Begin testing as early as possible in the software development lifecycle. Testing early helps identify issues sooner, making them easier and cheaper to fix.
+
+3. **Use a Combination of Testing Techniques**: Employ a combination of testing techniques, including unit testing, integration testing, and system testing Each type of testing focuses on different aspects of the software and helps ensure comprehensive test coverage.
+
+4. **Automate Testing Wherever Possible**: Automate repetitive and time-consuming tests to increase efficiency and reduce manual effort. Automated testing can be particularly beneficial for regression testing, where you need to ensure that changes haven't introduced unintended side effects.
+
+5. **Prioritize Tests Based on Risk and Impact**: Prioritize tests based on the level of risk and potential impact on the software's functionality and users. Focus more testing effort on critical and high-risk areas to ensure that they are thoroughly tested.
+
+6. **Test in Different Environments**: Test your software in various environments to ensure compatibility and reliability across different platforms, operating systems, browsers, and devices. This includes testing in development, staging, and production environments.
+
+---
+
 #### Pull Requests
 
-Code review is always a good idea. Consider using Pull Requests and tagging a couple of other contributors whenever you want to merge a series of commits into the active branch. Here are a few best practices:
+Code review is always a good idea. Consider using Pull Requests and tagging a couple of other collaborators whenever you want to merge a series of commits into the active branch. Here are a few best practices:
 
 1. **Create Descriptive Titles**: Use clear and descriptive titles for your pull requests. A good title summarizes the changes introduced by the PR.
 
@@ -63,9 +82,7 @@ Code review is always a good idea. Consider using Pull Requests and tagging a co
 
 5. **Write Meaningful Commit Messages**: Write clear and concise commit messages that describe the purpose of each commit. This helps reviewers understand the changes at a glance.
 
-6. **Respond to Feedback Promptly**: Be responsive to feedback provided during the review process. Address comments and suggestions promptly to facilitate collaboration.
-
-7. **Run Tests Before Submitting**: Ensure that all tests pass before submitting the PR. Running tests locally helps catch issues early and demonstrates that the changes are functional.
+6. **Run Tests Before Submitting**: Ensure that all tests pass before submitting the PR. Running tests locally helps catch issues early and demonstrates that the changes are functional.
 
 8. **Rebase Your Branch**: Before merging, rebase your branch onto the latest main branch to incorporate any changes and resolve conflicts.
 
@@ -75,8 +92,35 @@ Code review is always a good idea. Consider using Pull Requests and tagging a co
 
 ---
 
-#### Project Requirements Document
+#### Versioning
+
+[Semver](https://semver.org/) is a widely accepted standard, so we'll use it. Versioning should be notated somewhere in the *pyproject.toml* (for Poetry projects) or in the version section in the GitHub Repo.
+
+Given a version number **MAJOR.MINOR.PATCH**, increment the:
+1. **MAJOR** version when you make incompatible API changes
+2. **MINOR** version when you add functionality in a backward compatible manner
+3. **PATCH** version when you make backward compatible bug fixes
+
+Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+
+---
+
+#### Project Requirements Documentation
 
 Find a template [here](https://docs.google.com/document/d/16rlG2PMNmhj8rH4q4BryuydS9yjCwQJGWo11tVci-AU/edit).
 
 This is less about GitHub usage and more just a best practice for any large projects. PRDs are linked to several of the newer projects here -- have a look to see how helpful they can be!
+
+---
+
+#### Tools
+
+There are a lot of great tools out there, and it would be great for us to use a unified toolchain wherever possible for better fluency. Here's a running list of the ones we've found helpful. Most are in Python, but feel free to add from in any language. 
+
+- **[Poetry](https://python-poetry.org/)** Python Packaging and dependency management.
+- **[Ruff](https://docs.astral.sh/ruff/)** An extremely fast Python linter and code formatter.
+- **[PyTest](https://docs.pytest.org/en/8.2.x/)** Testing framework for Python.
+- Add some more!
+
+
+
