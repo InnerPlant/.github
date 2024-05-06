@@ -2,7 +2,7 @@
 
 To get started, please explore the following resources:
 
-- **[GitHub and Dev Best Practices](https://github.com/InnerPlant/.github/blob/main/README.md)**: Cest practices for using GitHub to collaborate on projects, contribute code, and manage repositories effectively.
+- **[GitHub and Dev Best Practices](https://github.com/InnerPlant/.github/blob/main/README.md)**: Best practices for using GitHub to collaborate on projects, contribute code, and manage repositories effectively.
 
 - **[Company Wiki - Software](https://sites.google.com/innerplant.com/innerwiki/software)**: Company wiki page dedicated to software, where you can find documentation, guidelines, and resources related to our software development processes and tools. If you've developed a tool that many people will be using, please write up a guide for visibility.
 
