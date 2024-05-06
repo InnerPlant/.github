@@ -38,7 +38,7 @@ Here are some sections to consider including when creating a README. This is fle
 5. **Documentation**: Link to comprehensive documentation if available. Even if the README covers the basics, having detailed documentation provides additional clarity and helps users dive deeper into your project.
 
 
-Remember to keep your README concise, well-organized, and easy to read. If you have a lot of documentation that won't fit in a README, consider creating docs in the [https://sites.google.com/innerplant.com/innerwiki/software](InnerPlant Software Wiki)
+Remember to keep your README concise, well-organized, and easy to read. If you have a lot of documentation that won't fit in a README, consider creating docs in the [InnerPlant Software Wiki](https://sites.google.com/innerplant.com/innerwiki/software).
 
 ---
 
