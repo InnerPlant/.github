@@ -36,6 +36,7 @@ Find a template README [here](https://github.com/InnerPlant/.github/blob/main/re
 7. **Contact Information**: Provide contact information or links to relevant communication channels (such as Slack) where users can reach out for support or ask questions.
 
 Remember to keep your README concise, well-organized, and easy to read. 
+
 ---
 
 #### Issues
