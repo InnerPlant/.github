@@ -6,7 +6,8 @@
 1. [Naming](#Naming-Convention)
 2. [Readmes](#README)
 3. [Issues](#ISSUES)
-4. [Pull Requests](#configuration)
+4. [Pull Requests](#Pull-Requests)
+5. [Project Requirements](#Project-Requirements)
 
 #### Naming Convention
 
@@ -43,7 +44,7 @@ Remember to keep your README concise, well-organized, and easy to read.
 
 Issues can essentially just be a to-do list for the project. It's best to keep issues small and specific. They should be bite-sized tasks that can be completed in a day or two.
 
-Recommend using [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) for tracking and collborating on issues. The Kanban board is particularly useful.
+We recommend using [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) for tracking and collborating on issues. The Kanban board is particularly useful.
 
 ---
 
@@ -71,3 +72,10 @@ Code review is always a good idea. Consider using Pull Requests and tagging a co
 
 10. **Close Related Issues**: Once the PR is merged, consider assigning and closing related issues to keep the project's issue tracker organized and up-to-date. 
 
+---
+
+#### Project Requirements Document
+
+Find a template [here](https://docs.google.com/document/d/16rlG2PMNmhj8rH4q4BryuydS9yjCwQJGWo11tVci-AU/edit).
+
+This is less about GitHub usage and more just a best practice for any large projects. PRDs are linked to several of the newer projects here -- have a look to see how helpful they can be!
