@@ -31,15 +31,9 @@ Find a template README [here](https://github.com/InnerPlant/.github/blob/main/re
 
 5. **Documentation**: Link to comprehensive documentation if available. Even if the README covers the basics, having detailed documentation provides additional clarity and helps users dive deeper into your project.
 
-6. **Contributing Guidelines**: If you welcome contributions from the community, outline how users can contribute to your project. Include information on how to report issues, submit feature requests, and contribute code through pull requests.
+6. **Acknowledgments**: If your project uses third-party libraries, tools, or resources, acknowledge them in your README. This helps give credit to those who have contributed to your project indirectly.
 
-7. **License**: Specify the license under which your project is distributed. This clarifies how others can use, modify, and distribute your project.
-
-8. **Acknowledgments**: If your project uses third-party libraries, tools, or resources, acknowledge them in your README. This helps give credit to those who have contributed to your project indirectly.
-
-9. **Contact Information**: Provide contact information or links to relevant communication channels (such as Slack, Discord, or mailing lists) where users can reach out for support or ask questions.
-
-10. **Badges**: Consider adding badges to your README to highlight important information, such as build status, code coverage, or version compatibility. Badges can provide
+7. **Contact Information**: Provide contact information or links to relevant communication channels (such as Slack, Discord, or mailing lists) where users can reach out for support or ask questions.
 
 Remember to keep your README concise, well-organized, and easy to read. A well-crafted README can significantly improve the visibility and adoption of your project.
 
