@@ -1,4 +1,4 @@
-# Best Practices for InnerPlant GitHub use
+# Best Practices for InnerPlant Software Development
 
 ### Table of Contents
 
