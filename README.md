@@ -2,13 +2,13 @@
 
 ### Table of Contents
 
-1. [Naming](#Naming-Convention)
-2. [Readmes](#README)
-3. [Issues](#Issues)
-4. [Tests](#Tests)
-5. [Pull Requests](#Pull-Requests)
-6. [Versioning](#Versioning)
-7. [Project Requirements Doc](#Project-Requirements)
+1. [Project Requirements](#Project-Requirements)
+2. [Naming](#Naming-Convention)
+3. [Readmes](#README)
+4. [Issues](#Issues)
+5. [Tests](#Tests)
+6. [Pull Requests](#Pull-Requests)
+7. [Versioning](#Versioning)
 8. [Tools](#Tools)
 
 ---
@@ -17,7 +17,7 @@
 
 Find a template [here](https://docs.google.com/document/d/16rlG2PMNmhj8rH4q4BryuydS9yjCwQJGWo11tVci-AU/edit).
 
-This is less about GitHub usage and more just a best practice for any large projects. PRDs are linked to several of the newer projects here -- have a look to see how helpful they can be!
+This is less about GitHub usage, and more just a best practice for any large project. Writing up a PRD will help make sure you define project scope, set expectations with stakeholders, and reduce risks early on while modifications are still cheap. 
 
 ---
 
