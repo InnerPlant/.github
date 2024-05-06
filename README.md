@@ -25,7 +25,7 @@ Be sure to fill out the *About* section on the right-hand side so people can see
 
 A README is a very important piece of your repository - it's the first thing someone will read about your code, and should help be a primer for understanding what it does and how it works. Find a template README [here](https://github.com/InnerPlant/.github/blob/main/readme-template.md).
 
-Here are some best practices and sections to consider when creating a README. This is flexible, so modify as needed:
+Here are some sections to consider including when creating a README. This is flexible, so modify as needed:
 
 1. **Project Overview**: Begin with a brief overview of your project. Explain what the project does, its purpose, and why it's valuable. This section should give readers a high-level understanding of what your project is about.
 
@@ -37,9 +37,6 @@ Here are some best practices and sections to consider when creating a README. Th
 
 5. **Documentation**: Link to comprehensive documentation if available. Even if the README covers the basics, having detailed documentation provides additional clarity and helps users dive deeper into your project.
 
-6. **Acknowledgments**: If your project uses third-party libraries, tools, or resources, acknowledge them in your README. This helps give credit to those who have contributed to your project indirectly.
-
-7. **Contact Information**: Provide contact information or links to relevant communication channels (such as Slack) where users can reach out for support or ask questions.
 
 Remember to keep your README concise, well-organized, and easy to read. If you have a lot of documentation that won't fit in a README, consider creating docs in the [https://sites.google.com/innerplant.com/innerwiki/software](InnerPlant Software Wiki)
 
