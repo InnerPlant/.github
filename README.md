@@ -13,6 +13,14 @@
 
 ---
 
+#### Project Requirements Documentation
+
+Find a template [here](https://docs.google.com/document/d/16rlG2PMNmhj8rH4q4BryuydS9yjCwQJGWo11tVci-AU/edit).
+
+This is less about GitHub usage and more just a best practice for any large projects. PRDs are linked to several of the newer projects here -- have a look to see how helpful they can be!
+
+---
+
 #### Naming Convention
 
 Name your repo something descriptive. Use only lowercase letters and dashes. No underscores unless you ***really*** need them, please!
@@ -101,14 +109,6 @@ Given a version number **MAJOR.MINOR.PATCH**, increment the:
 3. **PATCH** version when you make backward compatible bug fixes
 
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
-
----
-
-#### Project Requirements Documentation
-
-Find a template [here](https://docs.google.com/document/d/16rlG2PMNmhj8rH4q4BryuydS9yjCwQJGWo11tVci-AU/edit).
-
-This is less about GitHub usage and more just a best practice for any large projects. PRDs are linked to several of the newer projects here -- have a look to see how helpful they can be!
 
 ---
 
