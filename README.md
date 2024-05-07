@@ -52,9 +52,9 @@ Remember to keep your README concise, well-organized, and easy to read. If you h
 
 #### Issues
 
-Issues can essentially just be a to-do list for the project. It's best to keep issues small and specific. They should be bite-sized tasks that can be completed in a day or two.
+[GitHub Issues](https://github.com/features/issues) can essentially just be a to-do list for a project. It's best to keep issues small and specific. They should be bite-sized tasks that can be completed in a day or two.
 
-We recommend using [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) for tracking and collborating on issues. The Kanban board is particularly useful.
+We recommend using [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) and [Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones) for tracking and collborating on issues. The Kanban board is particularly useful.
 
 ---
 
