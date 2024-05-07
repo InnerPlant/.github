@@ -39,11 +39,11 @@ Here are some sections to consider including when creating a README. This is fle
 
 2. **Installation Instructions**: Provide clear, step-by-step instructions on how to install and set up your project. Include any dependencies that need to be installed and specify the supported platforms.
 
-3. **Usage**: Explain how to use your project. Provide code examples or usage scenarios to help users understand how they can interact with your project. This section should guide users on how to get the most out of your project. If this is deployed on the cloud somewhere, provide a link (and consider putting it at the top of the README and in the about section as well) 
+3. **Usage**: Explain how to use your project. Provide code examples or usage scenarios to help users understand how they can interact with your project. This section should guide users on how to get the most out of your project. If this is deployed on the cloud somewhere, particularly if there are any CI/CD piplelines, provide a link (and consider putting it at the top of the README and in the about section as well).
+   
+5. **Configuration**: If your project requires configuration, explain how users can configure it to suit their needs. Include information about configuration files, environment variables, or any other settings users might need to adjust.
 
-4. **Configuration**: If your project requires configuration, explain how users can configure it to suit their needs. Include information about configuration files, environment variables, or any other settings users might need to adjust.
-
-5. **Documentation**: Link to comprehensive documentation if available. Even if the README covers the basics, having detailed documentation provides additional clarity and helps users dive deeper into your project.
+6. **Documentation**: Link to comprehensive documentation if available. Even if the README covers the basics, having detailed documentation provides additional clarity and helps users dive deeper into your project.
 
 
 Remember to keep your README concise, well-organized, and easy to read. If you have a lot of documentation that won't fit in a README, consider creating docs in the [InnerPlant Software Wiki](https://sites.google.com/innerplant.com/innerwiki/software).
